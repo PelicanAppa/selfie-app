@@ -1,0 +1,26 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+body{
+    background: linear-gradient(45deg, rgb(255, 0, 149), rgb(234, 0, 109));
+}
+#by{
+    position: fixed;
+    bottom: -14;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    height: 40px;
+}
+img:hover{
+    border-radius: 5%;
+    border: 10px solid grey;
+    cursor: pointer;
+}
